@@ -77,4 +77,6 @@ def read_item(anime_id: int):
 #         list_h.append(json_small)
 #     result = pchema.AllAnimeName(all_anime=list_h)
 #     return result
-#
+
+
+#d fgbgfhfbfgfdgdgd
