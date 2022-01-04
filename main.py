@@ -79,4 +79,3 @@ def read_item(anime_id: int):
 #     return result
 
 
-#d fgbgfhfbfgfdgdgd
